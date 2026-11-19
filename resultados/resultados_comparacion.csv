@@ -1,0 +1,4 @@
+,Accuracy,F1 macro,Recall Alto
+Lógica difusa,0.94,0.936,0.952
+Árbol de decisión,0.94,0.936,1.0
+Red neuronal MLP,0.842,0.826,0.892
